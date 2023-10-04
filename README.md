@@ -1,1 +1,1 @@
-Set up for table html email
+Set up an html table for email
